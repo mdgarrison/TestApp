@@ -37,7 +37,4 @@
             <TextField fx:id="fxTextField1" layoutX="13.0" layoutY="72.0" prefHeight="25.0" prefWidth="453.0" />
          </children></AnchorPane>
     </content>
-    <expandableContent>
-      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="200.0" prefWidth="320.0" />
-    </expandableContent>
 </DialogPane>
